@@ -1,0 +1,7 @@
+# The Long Roast — Lawmakers and the File They Cannot Convert
+
+[![make.fun · u-swift-raven-16-the-long-roast-lawmakers-and-the-f3a3bdf7](https://make.fun/badge/u-swift-raven-16-the-long-roast-lawmakers-and-the-f3a3bdf7.svg)](https://make.fun/bounty/u-swift-raven-16-the-long-roast-lawmakers-and-the-f3a3bdf7?utm_source=github&utm_medium=readme&utm_campaign=u-swift-raven-16-the-long-roast-lawmakers-and-the-f3a3bdf7)
+[![rank](https://make.fun/badge/u-swift-raven-16-the-long-roast-lawmakers-and-the-f3a3bdf7/kizuna99/u-swift-raven-16-the-long-roast-lawmakers-and-the-f3a3bdf7-entry/rank.svg)](https://make.fun/bounty/u-swift-raven-16-the-long-roast-lawmakers-and-the-f3a3bdf7/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-swift-raven-16-the-long-roast-lawmakers-and-the-f3a3bdf7)
+[![reward](https://make.fun/badge/u-swift-raven-16-the-long-roast-lawmakers-and-the-f3a3bdf7/kizuna99/u-swift-raven-16-the-long-roast-lawmakers-and-the-f3a3bdf7-entry/reward.svg)](https://make.fun/bounty/u-swift-raven-16-the-long-roast-lawmakers-and-the-f3a3bdf7?utm_source=github&utm_medium=readme&utm_campaign=u-swift-raven-16-the-long-roast-lawmakers-and-the-f3a3bdf7)
+
+A one-sentence satirical roast of lawmakers who voted to govern every algorithm on earth — then "converted" their own bill to PDF by renaming its file extension. `main.py` writes the single entry sentence (144 characters, one sentence) to `/output/entry.txt`.
